@@ -1,0 +1,1 @@
+INSERT INTO journey (journey_type) VALUES ('ida'), ('volta');

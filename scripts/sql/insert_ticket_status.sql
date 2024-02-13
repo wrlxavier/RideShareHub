@@ -1,0 +1,1 @@
+INSERT INTO ticket_status (status_name) VALUES ('aberto'), ('fechado'), ('cancelado');

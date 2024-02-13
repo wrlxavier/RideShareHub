@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS ticket_status (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    status_name TEXT NOT NULL
+);

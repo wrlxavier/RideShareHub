@@ -1,0 +1,10 @@
+{
+    "ordered_queries": [
+        "create_table_journey",
+        "create_table_ticket_status",
+        "create_table_passengers",
+        "create_table_tickets",
+        "insert_journey",
+        "insert_ticket_status"
+    ]
+}
